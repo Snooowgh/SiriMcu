@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MCU_SiriIntent.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>MCU_SiriIntentUI.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>SiriMcu.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>21D0BC041E642CBD00054FFC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>21D0BC1B1E642CBE00054FFC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>21D0BC261E642CBE00054FFC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>21D0BC3C1E642D3600054FFC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>21D0BC451E642D3600054FFC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
